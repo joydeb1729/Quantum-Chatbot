@@ -1,8 +1,10 @@
 ctransformers==0.2.27 
 sentence-transformers==4.1.0
-pinecone-client==6.0.0
+langchain-pinecone==0.2.6
 langchain==0.3.25
 langchain_community==0.3.23
+langchain_huggingface==0.2.0
+huggingface_hub[hf_xet]==1.1.0
 flask==3.1.0
 python-dotenv==1.1.0
 pypdf==5.4.0
