@@ -13,7 +13,7 @@ list_of_files = [
     'experiment/exp.ipynb',
     'app.py',
     'store_index.py',
-    'static',
+    'static/style.css',
     'templates/chat.html'
 ]
 
